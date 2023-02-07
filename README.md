@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gopikasri23
-- 👀 I’m interested in competitive programming , UI/UX design and web development
-- 🌱 I’m currently learning audio signal processing for machine learning
+- 👀 I’m interested in competitive programming and UI/UX design  
+- Enthusiastic learner 
 - Pre final year Computer Science Engineering student in CIT college ,Coimbatore.
 
 
