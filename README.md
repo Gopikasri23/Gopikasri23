@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gopikasri23
-- 👀 I’m interested in competitive programming and UI/UX design  
-- Enthusiastic learner 
-- Pre final year Computer Science Engineering student in CIT college ,Coimbatore.
+- 👀competitive programmer 
+- Final year Computer Science Engineering student in CIT college ,Coimbatore.
 
 
 <!---
